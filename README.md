@@ -81,7 +81,7 @@ git remote -v
 git remote rm ## origin
 git branch -d ## master
 git remote add origin https://github.com/Daniel-355/Daniel-355.github.io.git
-on the folder, right click “git bash here ”
+on the folder, right click “git bash here ” ? git init
 git push --set-upstream origin master
 Hry—123---hry
 
@@ -92,3 +92,8 @@ cd
 cd --
 
 git status
+
+git config --global --list
+
+
+* set ssn firstly
