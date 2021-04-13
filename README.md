@@ -65,3 +65,30 @@ note: pull then push
 https://www.youtube.com/watch?v=CD2XpXwge4A 
 
 * https://academicpages.github.io/markdown/
+
+* common code
+Git clone==
+Ls, have a look== 
+Git pull==
+
+Git add==
+git commit -m “”
+Git push==
+
+git branch -v
+git remote -v
+
+git remote rm ## origin
+git branch -d ## master
+git remote add origin https://github.com/Daniel-355/Daniel-355.github.io.git
+on the folder, right click “git bash here ”
+git push --set-upstream origin master
+Hry—123---hry
+
+pwd
+mkdir
+
+cd
+cd --
+
+git status
